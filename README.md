@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# مشروع الطلبة المتميزين
+# مشروع الطلبة المتميزين 🦸🏻‍♀️🦸🏻‍♂️
 
 ## مشروع - 1
 
@@ -8,7 +8,7 @@
 
 1. قم بعمل fork للـ repository
 2. قم بعمل clone للـ repository وقم بتثبيت نسختك الخاصة منها على جهازك
-3. قم بتفحص الموقع https://www.studioghibli.com.au/ جيداً ودراسة مكوناته
+3. قم بتفحص الموقع [Studio Ghibli](https://www.studioghibli.com.au/) جيداً ودراسة مكوناته
 4. المطلوب منك في هذا المشروع هو تصميم موقع يحمل نفس مكونات الموقع السابق اعتماداً على عناصر Bootstrap
 5. المطلوب منك تحسين تصميم الموقع باستخدام Bootstrap، فهل تستطيع؟
 6. قم بتنفيذ المطلوب منك في هذا المشروع داخل مجلد Bootstrap
@@ -25,13 +25,13 @@
 
 لديك حرية اختيار أي من المواقع التالية لنسخ تصميمه:
 
-Netflix: [Netflix Website](https://www.netflix.com/browse)
-Apple: [Apple Website](https://www.apple.com/)
-SpaceX: [SpaceX Website](https://www.spacex.com/)
-Talabat: [Talabat Website](https://www.talabat.com/kuwait/restaurants/39/salwa)
+1. موقع Netflix: [Netflix](https://www.netflix.com/browse)
+2. موقع Apple: [Apple](https://www.apple.com/)
+3. موقع SpaceX: [SpaceX](https://www.spacex.com/)
+4. موقع Talabat: [Talabat](https://www.talabat.com/kuwait/restaurants/39/salwa)
 
 قم بتنفيذ المطلوب منك في هذا المشروع داخل مجلد CloneAWebsite
 
 <br>
-![](https://c.tenor.com/4gm7szH1mOUAAAAC/friends-chandler.gif)
+![](https://media.giphy.com/media/chandler.gif/giphy.gif)
 </div>
