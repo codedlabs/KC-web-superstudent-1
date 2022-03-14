@@ -33,6 +33,7 @@
 قم بتنفيذ المطلوب منك في هذا المشروع داخل مجلد CloneAWebsite
 
 <br>
-![](https://media.giphy.com/media/LZLnRBMNX6KlDIM53t/giphy.gif)
-![](https://media.giphy.com/media/12374537/giphy.gif)
+
+![](https://media.giphy.com/media/W5ZUxqXT1lmiysXsDE/giphy.gif)
+
 </div>
