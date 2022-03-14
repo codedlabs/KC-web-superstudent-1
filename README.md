@@ -25,13 +25,13 @@
 
 لديك حرية اختيار أي من المواقع التالية لنسخ تصميمه:
 
-1. Netflix: [https://www.netflix.com/browse](https://www.netflix.com/browse)
-2. Apple: [https://www.apple.com](https://www.apple.com/)
-3. SpaceX: [https://www.spacex.com](https://www.spacex.com/)
-4. Talabat: [https://www.talabat.com/kuwait/restaurants/39/salwa](https://www.talabat.com/kuwait/restaurants/39/salwa)
+Netflix: [Netflix Website](https://www.netflix.com/browse)
+Apple: [Apple Website](https://www.apple.com/)
+SpaceX: [SpaceX Website](https://www.spacex.com/)
+Talabat: [Talabat Website](https://www.talabat.com/kuwait/restaurants/39/salwa)
 
 قم بتنفيذ المطلوب منك في هذا المشروع داخل مجلد CloneAWebsite
 
 <br>
-![You got this](https://c.tenor.com/4gm7szH1mOUAAAAC/friends-chandler.gif)
+![](https://c.tenor.com/4gm7szH1mOUAAAAC/friends-chandler.gif)
 </div>
