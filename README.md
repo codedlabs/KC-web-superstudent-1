@@ -25,13 +25,14 @@
 
 لديك حرية اختيار أي من المواقع التالية لنسخ تصميمه:
 
-1. موقع Netflix: [Netflix](https://www.netflix.com/browse)
-2. موقع Apple: [Apple](https://www.apple.com/)
-3. موقع SpaceX: [SpaceX](https://www.spacex.com/)
-4. موقع Talabat: [Talabat](https://www.talabat.com/kuwait/restaurants/39/salwa)
+1. موقع [Netflix](https://www.netflix.com/browse)
+2. موقع [Apple](https://www.apple.com/)
+3. موقع [SpaceX](https://www.spacex.com/)
+4. موقع [Talabat](https://www.talabat.com/kuwait/restaurants/39/salwa)
 
 قم بتنفيذ المطلوب منك في هذا المشروع داخل مجلد CloneAWebsite
 
 <br>
-![](https://media.giphy.com/media/chandler.gif/giphy.gif)
+![](https://media.giphy.com/media/LZLnRBMNX6KlDIM53t/giphy.gif)
+![](https://media.giphy.com/media/12374537/giphy.gif)
 </div>
